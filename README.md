@@ -53,28 +53,3 @@ https://github.com/user-attachments/assets/c379a750-53eb-4813-8cea-757f34ab5a2d
 > If you find that your imported list isn't working, it may be due to an outdated web browsing session. If you haven't restarted your web browser for a long time, there's a chance the session won't update how it should, meaning importing the list into uBlock Origin or uBlacklist won't function correctly. Try creating a new session by closing <ins>**all**</ins> web browser windows, waiting until all processes are fully closed (4-5 second wait), then re-opening your web browser. That should help; if not, then try clearing your browser's cache.
 
 ***
-
-> [!IMPORTANT]
-> This may look cumbersome, but all you really need to do is just allow the extension to hit your search engine's locale, for example, `google.fr` or `google.co.uk`. You can go through all of them and allow them, but it's not necessary.
-
-5. Now scroll back up, and hit the blue **Extension Settings** button. It will bring you to Safari and open uBlacklist's settings panel.
-
-6. Scroll all the way down until you see the "Subscription" tab, and click on the blue "Add a subscription" button.
-
-7. Give a name for the added blocklist (eg. Main AI blocklist).
-  
-8. Copy and paste this url 
-```
-https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list_uBlacklist.txt
-``` 
-into the **URL** part of the dialogue box, then press the blue **Add** button.
-
-9. Set the update interval to an hour for near-realtime list updates, and you're done!
-
-### Android (via Firefox)
-
-<details>
-<summary>Installation for uBlock Origin (expand) </summary>
-<br>
-
-***
