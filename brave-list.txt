@@ -1,3 +1,4 @@
+! Title: Brave Search AI Blocklist
 ! // Brave Version
 
 
