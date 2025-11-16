@@ -55,17 +55,6 @@ https://github.com/user-attachments/assets/c379a750-53eb-4813-8cea-757f34ab5a2d
 
 ***
 
-> [!NOTE]
-> Both iOS and iPadOS don't have support for uBlock Origin. So, we'll be using uBlacklist for this. Safari is the only browser we can use that allows the use of extensions.
-
-1. Download uBlacklist, [available on the App Store](https://apps.apple.com/us/app/ublacklist-for-safari/id1547912640)
-
-2. Go into settings, scroll down until you see Safari, and tap on it.
-
-3. Once in the Safari settings, in General, hit **Extensions**. Turn on the uBlacklist extension.
-
-4. While still in uBlacklist's settings, in the **Permissions for uBlacklist** section, scroll down to your preferred search engine and change the permission from "Ask" to "Allow."
-
 > [!IMPORTANT]
 > This may look cumbersome, but all you really need to do is just allow the extension to hit your search engine's locale, for example, `google.fr` or `google.co.uk`. You can go through all of them and allow them, but it's not necessary.
 
