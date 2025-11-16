@@ -1,10 +1,11 @@
-### My attempt at a fork for [laylavish's "uBlockOrigin-HUGE-AI-Blocklist"](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) 
-### This version is solely for Brave Search
+# My attempt at a fork for [laylavish's "uBlockOrigin-HUGE-AI-Blocklist"](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) 
+But solely for Brave Search
 
-### NOTE: TLD ".ai" is blocked ENTIRELY
+
+
+## NOTE: TLD ".ai" is blocked ENTIRELY
 This ends up blocking Anguilla's ccTLD, as they unfortunately share the same domain.
-Sorry Anguilla
-
+(Sorry Anguilla)
 
 
 # uBlockOrigin & uBlacklist Huge AI Blocklist
