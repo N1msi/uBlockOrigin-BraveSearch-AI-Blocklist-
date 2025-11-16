@@ -1,4 +1,4 @@
-# (This is my attempt at a fork for laylavish's "uBlockOrigin-HUGE-AI-Blocklist," but solely for Brave Search)
+### (This is my attempt at a fork for laylavish's "uBlockOrigin-HUGE-AI-Blocklist," but solely for Brave Search)
 
 
 # uBlockOrigin & uBlacklist Huge AI Blocklist
