@@ -1,0 +1,77 @@
+! Brave Search variant of the Nuclear Option
+
+
+! //// Going NUCLEAR!!! (sites that have a lot of AI "art"/heavily support AI "art", but also have some authentic artwork)
+
+search.brave.com##div.snippet:has(a[href*="stock.adobe.com"])
+search.brave.com##div.snippet:has(a[href*="designbundles.net"])
+search.brave.com##div.snippet:has(a[href*="freepixel.com"])
+search.brave.com##div.snippet:has(a[href*="artmajeur.com"])
+search.brave.com##div.snippet:has(a[href*="artpal.com"])
+search.brave.com##div.snippet:has(a[href*="freepik.com"])
+search.brave.com##div.snippet:has(a[href*="freepik.es"])
+search.brave.com##div.snippet:has(a[href*="shutterstock.com"])
+search.brave.com##div.snippet:has(a[href*="pixtastock.com"])
+search.brave.com##div.snippet:has(a[href*="redbubble.com"])
+search.brave.com##div.snippet:has(a[href*="3tdesign.edu.vn"])
+search.brave.com##div.snippet:has(a[href*="artstation.com"])
+search.brave.com##div.snippet:has(a[href*="deviantart.com"])
+search.brave.com##div.snippet:has(a[href*="alamy.com"])
+search.brave.com##div.snippet:has(a[href*="vecteezy.com"])
+search.brave.com##div.snippet:has(a[href*="pixabay.com"])
+search.brave.com##div.snippet:has(a[href*="dreamstime.com"])
+search.brave.com##div.snippet:has(a[href*="pngtree.com"])
+search.brave.com##div.snippet:has(a[href*="peakpx.com.com"])
+search.brave.com##div.snippet:has(a[href*="lunarmimi.net"])
+search.brave.com##div.snippet:has(a[href*="displate.com"])
+search.brave.com##div.snippet:has(a[href*="inprnt.com"])
+search.brave.com##div.snippet:has(a[href*="europosters.eu"])
+search.brave.com##div.snippet:has(a[href*="pinterest.com"])
+search.brave.com##div.snippet:has(a[href*="etsy.com"])
+search.brave.com##div.snippet:has(a[href*="123rf.com"])
+search.brave.com##div.snippet:has(a[href*="creativefabrica.com"])
+search.brave.com##div.snippet:has(a[href*="vanasplus.com"])
+search.brave.com##div.snippet:has(a[href*="downgraf.com"])
+search.brave.com##div.snippet:has(a[href*="pinterest.com"])
+search.brave.com##div.snippet:has(a[href*="pinterest.com/Sereneshell"])
+search.brave.com##div.snippet:has(a[href*="uxdesign.cc"])
+search.brave.com##div.snippet:has(a[href*="geekysweetie.com"])
+search.brave.com##div.snippet:has(a[href*="reddit.com/r/100Kanojo"])
+search.brave.com##div.snippet:has(a[href*="medium.com"])
+search.brave.com##div.snippet:has(a[href*="imgchest.com"])
+search.brave.com##div.snippet:has(a[href*="pixels.com"])
+search.brave.com##div.snippet:has(a[href*="gachax.com/anime"])
+search.brave.com##div.snippet:has(a[href*="gettywallpapers.com"])
+search.brave.com##div.snippet:has(a[href*="abposters.com"])
+search.brave.com##div.snippet:has(a[href*="posterlounge.com"])
+search.brave.com##div.snippet:has(a[href*="uhdpaper.com"])
+search.brave.com##div.snippet:has(a[href*="wallhere.com"])
+search.brave.com##div.snippet:has(a[href*="thehungryjpeg.com"])
+search.brave.com##div.snippet:has(a[href*="thirstymag.com"])
+search.brave.com##div.snippet:has(a[href*="kemono.su"])
+search.brave.com##div.snippet:has(a[href*="kemono.party"])
+search.brave.com##div.snippet:has(a[href*="alphacoders.com"])
+search.brave.com##div.snippet:has(a[href*="rollingpress.co.ke"])
+search.brave.com##div.snippet:has(a[href*="ukposters.co.uk"])
+search.brave.com##div.snippet:has(a[href*="redbrokoly.com"])
+search.brave.com##div.snippet:has(a[href*="nbcsport.co.uk"])
+search.brave.com##div.snippet:has(a[href*="jungleai.com"])
+search.brave.com##div.snippet:has(a[href*="dende.ai"])
+
+! // Content Aggregators/SEO spam
+search.brave.com##div.snippet:has(a[href*="tnhelearning.edu.vn"])
+
+! // Things that use Anthropic, Open AI, etc api/backend/models, but its usage is abnormal to that of gAI image or chat models
+search.brave.com##div.snippet:has(a[href*="talpasearch.com"])
+
+! // Subreddits
+search.brave.com##div.snippet:has(a[href*="reddit.com/r/CatgirlSFW"])
+search.brave.com##div.snippet:has(a[href*="reddit.com/r/MildFemboys"])
+search.brave.com##div.snippet:has(a[href*="100Kanojo"])
+
+! // Pinterest
+search.brave.com##div.snippet:has(a[href*="pinterest.com"])
+search.brave.com##div.snippet:has(a[href*="pinterest.com/Sereneshell"])
+
+! // Alternate App Stores
+search.brave.com##div.snippet:has(a[href*="cafebazaar.ir"])
