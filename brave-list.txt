@@ -496,6 +496,7 @@ search.brave.com##div.snippet:has(a[href*="jeddahairport.net"])
 
 
 ! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
+search.brave.com##div.snippet:has(a[href*="portraitart.app"])
 search.brave.com##div.snippet:has(a[href*="getmerlin.in"])
 search.brave.com##div.snippet:has(a[href*="aitree.io"])
 search.brave.com##div.snippet:has(a[href*="transpic.cn"])
@@ -1482,6 +1483,9 @@ search.brave.com##.image-result:has-text(.ai)
 
 
 ! Sites that have .com domain extension
+
+search.brave.com##.image-result:has-text(befunky.com)
+! ^ more often than not befunky image results are ai
 search.brave.com##.image-result:has-text(www.snappycanvas.com)
 search.brave.com##.image-result:has-text(thelinuxcode.com)
 search.brave.com##.image-result:has-text(steelefortress.com)
@@ -1960,6 +1964,7 @@ search.brave.com##.image-result:has-text(jeddahairport.net)
 
 
 ! Sites that have miscellaneous domain extensions (.pub, .io, .cc, et cetera)
+search.brave.com##.image-result:has-text(portraitart.app)
 search.brave.com##.image-result:has-text(getmerlin.in)
 search.brave.com##.image-result:has-text(aitree.io)
 search.brave.com##.image-result:has-text(transpic.cn)
