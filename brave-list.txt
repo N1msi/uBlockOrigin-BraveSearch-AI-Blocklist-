@@ -1483,9 +1483,10 @@ search.brave.com##.image-result:has-text(.ai)
 
 
 ! Sites that have .com domain extension
-
+search.brave.com##.image-result:has-text(wallpapersafari.com)
+! ^ more often than not wallpapersafari image results are ai
 search.brave.com##.image-result:has-text(befunky.com)
-! ^ more often than not befunky image results are ai
+! ^ same thing with befunky
 search.brave.com##.image-result:has-text(snappycanvas.com)
 search.brave.com##.image-result:has-text(thelinuxcode.com)
 search.brave.com##.image-result:has-text(steelefortress.com)
