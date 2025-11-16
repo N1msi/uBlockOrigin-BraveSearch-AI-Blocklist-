@@ -18,7 +18,7 @@
 search.brave.com##div.snippet:has(a[href*=".ai/"])
 
 ! Sites that have .com domain extension
-search.brave.com##div.snippet:has(a[href*="www.snappycanvas.com"])
+search.brave.com##div.snippet:has(a[href*="snappycanvas.com"])
 search.brave.com##div.snippet:has(a[href*="thelinuxcode.com"])
 search.brave.com##div.snippet:has(a[href*="steelefortress.com"])
 search.brave.com##div.snippet:has(a[href*="cybersecguide.com"])
@@ -1486,7 +1486,7 @@ search.brave.com##.image-result:has-text(.ai)
 
 search.brave.com##.image-result:has-text(befunky.com)
 ! ^ more often than not befunky image results are ai
-search.brave.com##.image-result:has-text(www.snappycanvas.com)
+search.brave.com##.image-result:has-text(snappycanvas.com)
 search.brave.com##.image-result:has-text(thelinuxcode.com)
 search.brave.com##.image-result:has-text(steelefortress.com)
 search.brave.com##.image-result:has-text(cybersecguide.com)
