@@ -3,6 +3,7 @@
 ! I will update it if I find any improved methods
 
 
+
 ! Sites that have .ai domain extension
 search.brave.com##div.snippet:has(a[href*=".ai/"])
 
