@@ -3,7 +3,7 @@
 
 
 ## NOTE
-TLD ".ai" is blocked ENTIRELY
+TLD ".ai" is blocked ENTIRELY in this fork
 
 This ends up blocking Anguilla's ccTLD, as they unfortunately share the same domain.
 
