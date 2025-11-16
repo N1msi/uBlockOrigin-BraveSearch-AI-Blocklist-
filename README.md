@@ -1,5 +1,5 @@
 # My fork attempt for [laylavish's blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) but solely for Brave
-This does not block image search (yet), only websites on the Brave search page
+This blocks both search page links and image search results
 
 
 ## NOTE
