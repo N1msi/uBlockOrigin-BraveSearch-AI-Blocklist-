@@ -1,4 +1,4 @@
-! Title: Brave Search AI Blocklist
+! Title: Huge Ai Blocklist (Brave)
 ! Expires: 1 day
 ! Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
 ! Homepage: https://github.com/N1msi/uBlockOrigin-BraveSearch-AI-Blocklist-
