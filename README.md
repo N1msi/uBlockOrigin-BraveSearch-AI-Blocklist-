@@ -1,4 +1,4 @@
-# My fork attempt for [laylavish's blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) for Brave
+# My fork attempt for [laylavish's blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) but solely for Brave
 
 
 
