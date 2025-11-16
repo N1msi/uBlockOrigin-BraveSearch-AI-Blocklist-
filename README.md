@@ -19,9 +19,6 @@ Also works on mobile ([iOS, iPadOS,](#iOS-iPadOS-Safari-only) [Android](#Android
 
 ### Installing it with uBlock Origin
 
-**One-click import (any platform)**
-
-If you have uBlock Origin installed, click [this link](https://subscribe.adblockplus.org?location=https%3A%2F%2Fraw.githubusercontent.com%2Flaylavish%2FuBlockOrigin-HUGE-AI-Blocklist%2Fmain%2Flist.txt&title=Sites%20using%20AI%20generated%20content) to import the filter list in just a click! Quick and simple.
 
 **Manual Import**
 
@@ -35,7 +32,7 @@ If you have uBlock Origin installed, click [this link](https://subscribe.adblock
 
 5. Copy and paste this URL into the dialogue box: 
 ```
-https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/main/list.txt
+https://raw.githubusercontent.com/N1msi/uBlockOrigin-BraveSearch-AI-Blocklist-/main/brave-list.txt
 ```
 
 6. Apply changes, and you're set!
