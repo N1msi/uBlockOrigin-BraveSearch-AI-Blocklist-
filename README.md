@@ -4,7 +4,9 @@
 
 ## NOTE
 TLD ".ai" is blocked ENTIRELY
+
 This ends up blocking Anguilla's ccTLD, as they unfortunately share the same domain.
+
 (Sorry Anguilla)
 
 
