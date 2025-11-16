@@ -11,9 +11,8 @@ This ends up blocking Anguilla's ccTLD (country code top-level domain) as they u
 
 
 # uBlockOrigin & uBlacklist Huge AI Blocklist
-A huge blocklist of manually curated sites (1000+) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing) with uBlock Origin or uBlacklist. 
+A huge blocklist of manually curated sites (1000+) that contain AI generated content, for the purposes of cleaning Brave Search Engine with uBlock Origin. 
 
-Also works on mobile ([iOS, iPadOS,](#iOS-iPadOS-Safari-only) [Android](#Android-via-Firefox)) via uBlacklist, as well as pihole/adguard (via [Hosts file](#hosts-file-for-pi-holeadguard))
 
 ## PC/Desktop installation
 
