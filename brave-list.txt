@@ -1,11 +1,10 @@
-! Brave Search Domain Extension Blocker
-! So far this is the most efficient and accurate method I have found
-! I will update it if I find any improved methods
-
+! // Brave Version
 
 
 ! Sites that have .ai domain extension
 search.brave.com##div.snippet:has(a[href*=".ai/"])
+
+! NOTE: So far I have found that blocking ".ai" TLD is more efficient (sorry Anguilla)
 
 
 ! Sites that have .com domain extension
