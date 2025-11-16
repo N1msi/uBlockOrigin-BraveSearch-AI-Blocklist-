@@ -1481,12 +1481,15 @@ search.brave.com##div.snippet:has(a[href*="redbubble.com/people/digitalemporio/s
 ! Sites that have .ai domain extension
 search.brave.com##.image-result:has-text(.ai)
 
+! Sites that, more often than not, have AI results
+search.brave.com##.image-result:has-text(wallpapercat.com)
+search.brave.com##.image-result:has-text(wallpapersafari.com)
+search.brave.com##.image-result:has-text(aestheticwallpapers.io)
+search.brave.com##.image-result:has-text(befunky.com)
+
 
 ! Sites that have .com domain extension
-search.brave.com##.image-result:has-text(wallpapersafari.com)
-! ^ more often than not wallpapersafari image results are ai
-search.brave.com##.image-result:has-text(befunky.com)
-! ^ same thing with befunky
+search.brave.com##.image-result:has-text(alphacoders.com)
 search.brave.com##.image-result:has-text(snappycanvas.com)
 search.brave.com##.image-result:has-text(thelinuxcode.com)
 search.brave.com##.image-result:has-text(steelefortress.com)
